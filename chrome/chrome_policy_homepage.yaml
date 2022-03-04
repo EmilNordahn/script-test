@@ -1,0 +1,39 @@
+name: Chrome - Skift startside
+
+description: |-
+  Scriptet skifter startsiden for den Google Chrome brugeren "Borger" bruger.
+  Scriptet tager imod ét argument som skal være URL'en til en hjemmeside
+
+inputs:
+  - value_type: STRING
+    name: URL
+    position: 0
+    mandatory: true
+
+executable_code: not yet
+
+site:
+  name: magenta
+  pk: 1
+
+is_security_script: false
+
+deleted: false
+
+maintained_by_magenta: false
+
+author:
+
+author_email:
+
+user_created:
+
+user_modified:
+  name: magenta
+  pk: 35
+
+tags:
+  - name: Chrome
+    pk: 3
+
+pk: 9
