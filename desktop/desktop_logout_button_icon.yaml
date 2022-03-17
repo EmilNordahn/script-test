@@ -1,0 +1,59 @@
+name: Desktop - Logout Button Icon
+
+description: |-
+  This script adds or removes a logout button with a custom icon to the user
+  desktop
+   It takes 4 arguments:
+   1. A checkbox to either activate or remove the button
+   2. The text that appears under the button on the desktop (if removing the shortcut this value doesn't matter)
+   3. A checkbox that dictates whether to prompt the user to logout or cancel when clicking the button
+   4. A picture file to use as icon .svg works best but .png can also be used
+
+inputs:
+  - value_type: BOOLEAN
+    name: Aktiver
+    position: 0
+    mandatory: true
+
+  - value_type: STRING
+    name: Navn på genvejen
+    position: 1
+    mandatory: true
+
+  - value_type: BOOLEAN
+    name: Bekræft logud?
+    position: 2
+    mandatory: true
+
+  - value_type: FILE
+    name: Ikon til genvejen
+    position: 3
+    mandatory: true
+
+executable_code: not yet
+
+site:
+  name: magenta
+  pk: 1
+
+is_security_script: false
+
+deleted: false
+
+maintained_by_magenta: true
+
+author: Marcus Funch Mogensen
+
+author_email: mfm@magenta.dk
+
+user_created:
+
+user_modified:
+  name: magenta
+  pk: 35
+
+tags:
+  - name: Desktop
+    pk: 4
+
+pk: 68

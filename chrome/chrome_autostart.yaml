@@ -1,0 +1,45 @@
+name: Chrome - Autostart
+
+description: |-
+  Dette script tilføjer eller fjerner Google Chrome fra autostart. Det er endvidere muligt at få Google Chrome til at starte op i fuldskærm.
+
+  Autostart betyder at Google Chrome vil starte op når brugeren logger ind.
+    Hvis du tilføjer "Ja" som argument bliver Google Chrome tilføjet til autostart og åbnet i fuldskærm.
+    Hvis du tilføjer "Nej" som argument bliver Google Chrome tilføjet til autostart og åbnet i normal skærm størelse.
+    Hvis du tilføjer "Fjern" som argument bliver Google Chrome fjernet fra autostart.
+
+  Testet på Ubuntu 20.04
+
+inputs:
+  - value_type: STRING
+    name: Ja/Nej/Fjern
+    position: 0
+    mandatory: true
+
+executable_code: not yet
+
+site:
+  name: magenta
+  pk: 1
+
+is_security_script: false
+
+deleted: false
+
+maintained_by_magenta: true
+
+author: Danni Als
+
+author_email: danni@magenta.dk
+
+user_created:
+
+user_modified:
+  name: magenta
+  pk: 35
+
+tags:
+  - name: Chrome
+    pk: 3
+
+pk: 5

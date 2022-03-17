@@ -1,0 +1,30 @@
+name: Chrome - Installér
+
+description: |-
+  Installerer Google Chrome.
+
+inputs:
+
+executable_code: not yet
+
+site:
+
+is_security_script: false
+
+deleted: false
+
+maintained_by_magenta: true
+
+author:
+
+author_email:
+
+user_created:
+
+user_modified:
+
+tags:
+  - name: Chrome
+    pk: 3
+
+pk: 8
