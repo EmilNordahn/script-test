@@ -1,0 +1,25 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Log altid brugeren ud efter et antal minutter uden at give besked.\r\
+    \n\r\nTestet p\xE5 Ubuntu 20.04."
+  executable_code: script_uploads/always_logout_after_time.sh
+  id: 25
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.813318
+  name: System - Log altid ud efter X minutter uden besked
+  site_id: null
+  user_created: ''
+  user_modified: flash_gordon

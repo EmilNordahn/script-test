@@ -1,0 +1,26 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Deaktiverer browserlogin og 'husk password' for Google Chrome.\r\n\
+    \r\nDette script kan k\xF8res uden at have installeret Google Chrome.\r\n\r\n\
+    Testet p\xE5 Ubuntu 20.04"
+  executable_code: script_uploads/chrome_policy_deactivate_login_m0TvmUo.sh
+  id: 6
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.774686
+  name: Chrome - Deaktiver autologin
+  site_id: null
+  user_created: ''
+  user_modified: magenta

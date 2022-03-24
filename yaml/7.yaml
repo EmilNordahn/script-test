@@ -1,0 +1,26 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Dette script deaktivere Ubuntu pop-up n\xE5r Publikumsbruger \xE5\
+    bner Google Chrome. \r\nGoogle-Chrome \xF8nsker at oprette en standard n\xF8glering.\r\
+    \n\r\nTestet p\xE5 Ubuntu 20.04."
+  executable_code: script_uploads/chrome_disable_keyring.sh
+  id: 7
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.843593
+  name: "Chrome - Deaktiver n\xF8glering"
+  site_id: null
+  user_created: ''
+  user_modified: magenta

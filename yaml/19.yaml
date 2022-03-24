@@ -1,0 +1,29 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Start Chromium i kiosk-mode og s\xE6t start-URL-en.\r\n\r\nDer angives\
+    \ en forsinkelse f\xF8r browseren startes, der kan hj\xE6lpe med at l\xF8se evt.\
+    \ timing issues (som regel virker det fint med 1 sekund, der angives ved tallet\
+    \ 1).\r\n\r\nSk\xE6rmens h\xF8jde og bredde skal s\xE6ttes til sk\xE6rmens korrekte\
+    \ opl\xF8sning.\r\n\r\nDesuden skal der angives en orientering, som kan v\xE6\
+    re \"left\", \"right\" eller \"normal\"."
+  executable_code: script_uploads/chromium_setup_ocWvyJg.sh
+  id: 19
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.826121
+  name: OS2displayPC - Autostart Chromium
+  site_id: null
+  user_created: ''
+  user_modified: mowgli

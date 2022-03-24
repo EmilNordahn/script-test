@@ -1,0 +1,30 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Dette script vil g\xF8re at alle grub menuerne p\xE5 n\xE6r Ubuntu\
+    \ vil kr\xE6ve en adgangskode for brugeren superuser. \r\n\r\nDet er vigtigt at\
+    \ man afpr\xF8ver scriptet p\xE5 en enkelt borgerpc f\xF8r man ruller det ud p\xE5\
+    \ dem alle sammen.\r\n\r\nDet er ogs\xE5 vigtigt at man husker det kodeord man\
+    \ s\xE6tter p\xE5 grub.\r\nDet er dog muligt at \xE6ndre det igen hvis man glemmer\
+    \ kodeordet. \r\n\r\n*Note: Man kan l\xE6se om hvad grub er, her: https://help.ubuntu.com/community/Grub2\r\
+    \n\r\nTestet p\xE5 Ubuntu 20.04."
+  executable_code: script_uploads/grub_set_password_HdoIPiZ.py
+  id: 24
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.884305
+  name: 'System - Grub: Aktiver sikkerhed'
+  site_id: null
+  user_created: ''
+  user_modified: magenta

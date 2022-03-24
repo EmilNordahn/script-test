@@ -1,0 +1,25 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Installer SSH og VNC for fjernadgang. \r\n\r\nDu kan lave SSH-forbindelse\
+    \ med det almindelige Unix-password.\r\n\r\nGiv VNC-passwordet med som parameter."
+  executable_code: script_uploads/vnc_and_ssh_install_7Q7CazQ.sh
+  id: 18
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.841066
+  name: OS2displayPC - Installer SSH og VNC
+  site_id: null
+  user_created: ''
+  user_modified: ''

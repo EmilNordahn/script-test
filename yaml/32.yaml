@@ -1,0 +1,25 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Dette script s\xE6tter local time fra BIOS.\r\n\r\nTestet p\xE5 Ubuntu\
+    \ 20.04."
+  executable_code: script_uploads/set_local_time_from_bios.sh
+  id: 32
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.878822
+  name: System - Set system clock from BIOS
+  site_id: null
+  user_created: ''
+  user_modified: flash_gordon

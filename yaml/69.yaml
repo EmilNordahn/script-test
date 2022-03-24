@@ -1,0 +1,29 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: John Doe
+  author_email: john@doe.com
+  created: 2021-08-25 11:20:13.670000
+  description: "\"Aktiverer\" genveje p\xE5 skrivebordet.\r\n\r\nInden dette script\
+    \ k\xF8res kan man godt tilf\xF8je en genvej, men det rette ikon ikke dukke op,\
+    \ og programmet vil i stedet blive \xE5bnet i et tekstredigeringsprogram.\r\n\r\
+    \nDer skal logges ud og ind igen - eller alternativt genstartes - f\xF8r det tager\
+    \ effekt.\r\nScriptet skal kun k\xF8res \xE9n gang - s\xE5 virker genveje der\
+    \ er tilf\xF8jet til skrivebordet b\xE5de f\xF8r og efter."
+  executable_code: script_uploads/desktop_activate_shortcuts.sh
+  id: 69
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.777491
+  name: Desktop - Aktiver genveje
+  site_id: 1
+  user_created: mowgli
+  user_modified: magenta

@@ -1,0 +1,29 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Lukker computeren ned p\xE5 et bestemt tidspunkt hver dag.\r\n\r\n\
+    Parametrene angiver timer og minutter i klokkeslettet.\r\n\r\nDet er muligt at\
+    \ angive \"--off\" som f\xF8rste parameter og en blank som anden parameter. Dette\
+    \ standser den daglige nedlukning.\r\n\r\nBrugeren varskos fem minutter f\xF8\
+    r nedlukningen.\r\n\r\nNB: Brugeren har ingen mulighed for at undg\xE5 dette.\r\
+    \n\r\nTestet p\xE5 Ubuntu 20.04."
+  executable_code: script_uploads/shutdown_at_time.sh
+  id: 28
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.780126
+  name: System - Luk ned dagligt
+  site_id: null
+  user_created: ''
+  user_modified: magenta
