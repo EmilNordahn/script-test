@@ -1,0 +1,27 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-10 09:12:51.835000
+  description: "Dettte script opdaterer alle pakker p\xE5 systemet. \r\n\r\nS\xE5\
+    \ det anbefales at k\xF8re dette script hvis en opdatering ude p\xE5 maskinen\
+    \ er g\xE5et galt, eller hvis man kun har sat automatiske sikkerhedsopdateringer\
+    \ til.\r\n\r\nTestet p\xE5 Ubuntu 20.04."
+  executable_code: script_uploads/update_all_7LM3G3y.sh
+  id: 30
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.873420
+  name: System - Opdater alt
+  site_id: null
+  user_created: ''
+  user_modified: magenta

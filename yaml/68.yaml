@@ -1,0 +1,33 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2021-08-25 11:19:11.606000
+  description: "Tilf\xF8jer en logud-knap til skrivebordet, med valgfrit navn og ikon\
+    \ (uploades), og mulighed for at bestemme om der skal logges ud \xF8jeblikkeligt,\
+    \ \r\neller om brugeren skal bekr\xE6fte f\xF8rst.\r\n\r\nParametre:\r\n\r\n1:\
+    \ Navnet du \xF8nsker, knappen skal have p\xE5 skrivebordet.\r\n2. Om der skal\
+    \ genstartes \xF8jeblikkeligt eller om brugeren skal sp\xF8rges om bekr\xE6ftelse\
+    \ (med mulighed for at stoppe logud).\r\n3. Hvilket ikon logudknappen skal have\
+    \ (en kvadratisk .SVG- eller .PNG-fil).\r\n\r\nBem\xE6rk: Dette script foruds\xE6\
+    tter at ogs\xE5 scriptet \"Desktop - Aktiver genveje\" k\xF8res for at aktivere\
+    \ knappen.\r\n\r\n\xD8nsker du at slette genvejen, kan det g\xF8res med scriptet\
+    \ \"Desktop - Tilf\xF8j/Fjern programgenvej p\xE5 skrivebord\"."
+  executable_code: script_uploads/desktop_logout_button_icon_W0J3c67.sh
+  id: 68
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.791841
+  name: Desktop - Logud-knap med valgfrit ikon
+  site_id: null
+  user_created: mowgli
+  user_modified: magenta
