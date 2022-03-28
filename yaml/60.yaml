@@ -9,16 +9,16 @@ state:
     adding: false
     db: default
     fields_cache: {}
-  author: ''
+  author: Johannes Dådyr
   author_email: ''
   created: 2021-08-10 09:12:51.835000
   description: '2'
-  executable_code: script_uploads/dbus-address.sh
+  executable_code: script_uploads/scriptnamehere.sh
   id: 60
   is_security_script: false
   maintained_by_magenta: false
   modified: 2022-03-24 11:35:34.856880
-  name: script test 2
+  name: TEST from git TEST
   site_id: 1
   user_created: ''
   user_modified: mowgli
