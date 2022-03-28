@@ -1,0 +1,27 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: John Doe
+  author_email: john@doe.com
+  created: 2022-01-18 10:06:14.551000
+  description: "Sl\xE5r skriverettigheder for skrivebordet til og fra for Borger-brugeren.\r\
+    \n\r\nArgumenter:\r\n  1. Aktiv\xE9r?: \r\n     ja: brugeren har IKKE rettighed\
+    \ til at l\xE6gge filer p\xE5 skrivebordet (standard)\r\n     nej: brugeren har\
+    \ rettighed til at l\xE6gge filer p\xE5 skrivebordet"
+  executable_code: script_uploads/desktop_toggle_writable_uD7ggxo.sh
+  id: 80
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.823354
+  name: "Desktop - Sl\xE5 skriverettigheder for skrivebord fra/til"
+  site_id: 1
+  user_created: flash_gordon
+  user_modified: magenta
