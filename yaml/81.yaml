@@ -1,0 +1,24 @@
+!!python/object/apply:django.db.models.base.model_unpickle
+args:
+- !!python/tuple
+  - system
+  - Script
+state:
+  _django_version: 3.2.12
+  _state: !!python/object:django.db.models.base.ModelState
+    adding: false
+    db: default
+    fields_cache: {}
+  author: ''
+  author_email: ''
+  created: 2022-03-23 16:02:11.748978
+  description: test
+  executable_code: script_uploads/adjust_settings_access_Q00cySw.sh
+  id: 81
+  is_security_script: false
+  maintained_by_magenta: false
+  modified: 2022-03-24 11:35:34.785882
+  name: access settings
+  site_id: 1
+  user_created: magenta
+  user_modified: magenta
