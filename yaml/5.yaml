@@ -9,7 +9,7 @@ state:
     adding: false
     db: default
     fields_cache: {}
-  author: ''
+  author: ny author name
   author_email: ''
   created: 2021-08-10 09:12:51.835000
   description: "Dette script tilf\xF8jer eller fjerner Google Chrome fra autostart.\
