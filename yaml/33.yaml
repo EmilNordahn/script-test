@@ -1,27 +1,2 @@
-!!python/object/apply:django.db.models.base.model_unpickle
-args:
-- !!python/tuple
-  - system
-  - Script
-state:
-  _django_version: 3.2.12
-  _state: !!python/object:django.db.models.base.ModelState
-    adding: false
-    db: default
-    fields_cache: {}
-  author: ''
-  author_email: ''
-  created: 2021-08-10 09:12:51.835000
-  description: "Skifter den default-lydudgang, systemet benytter. (Publikums-brugeren\
-    \ m\xE5 gerne skifte lydudgang under brug, men denne \xE6ndring vil ogs\xE5 slettes\
-    \ ved logout.)\r\n\xC6ndringerne vil ogs\xE5 v\xE6re der efter borgerPC'en har\
-    \ v\xE6ret slukket.\r\n\r\nScriptet virker p\xE5 OS2borgerPC 16.04 og 20.04."
-  executable_code: script_uploads/pulse_policy_profile.sh
-  id: 33
-  is_security_script: false
-  maintained_by_magenta: false
-  modified: 2022-03-24 11:35:34.764006
-  name: System - Skift lydudgang
-  site_id: null
-  user_created: ''
-  user_modified: magenta
+scr_executable_code_url: /media/script_uploads/pulse_policy_profile.sh
+scr_pk: 33

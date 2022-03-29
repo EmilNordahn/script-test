@@ -1,25 +1,2 @@
-!!python/object/apply:django.db.models.base.model_unpickle
-args:
-- !!python/tuple
-  - system
-  - Script
-state:
-  _django_version: 3.2.12
-  _state: !!python/object:django.db.models.base.ModelState
-    adding: false
-    db: default
-    fields_cache: {}
-  author: ''
-  author_email: ''
-  created: 2021-08-10 09:12:51.835000
-  description: "Email: john@doe.comDette script alarmerer, hvis der bliver fors\xF8\
-    gt at k\xF8re en sudo kommando p\xE5 maskinen.\r\n\r\n \r\nUdarbejdet af john@doe.com"
-  executable_code: script_uploads/sudoEvent_p1Nm05j.py
-  id: 1
-  is_security_script: true
-  maintained_by_magenta: false
-  modified: 2022-03-24 11:35:34.838389
-  name: Detect sudo event
-  site_id: null
-  user_created: ''
-  user_modified: ''
+scr_executable_code_url: /media/script_uploads/sudoEvent_p1Nm05j.py
+scr_pk: 1

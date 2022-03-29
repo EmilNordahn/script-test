@@ -1,24 +1,2 @@
-!!python/object/apply:django.db.models.base.model_unpickle
-args:
-- !!python/tuple
-  - system
-  - Script
-state:
-  _django_version: 3.2.12
-  _state: !!python/object:django.db.models.base.ModelState
-    adding: false
-    db: default
-    fields_cache: {}
-  author: ''
-  author_email: ''
-  created: 2021-08-10 09:12:51.835000
-  description: Installerer Google Chrome.
-  executable_code: script_uploads/chrome_install_KDwvq0C.sh
-  id: 8
-  is_security_script: false
-  maintained_by_magenta: false
-  modified: 2022-03-24 11:35:34.881557
-  name: "Chrome - Install\xE9r"
-  site_id: null
-  user_created: ''
-  user_modified: flash_gordon
+scr_executable_code_url: /media/script_uploads/chrome_install_KDwvq0C.sh
+scr_pk: 8

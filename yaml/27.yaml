@@ -1,24 +1,2 @@
-!!python/object/apply:django.db.models.base.model_unpickle
-args:
-- !!python/tuple
-  - system
-  - Script
-state:
-  _django_version: 3.2.12
-  _state: !!python/object:django.db.models.base.ModelState
-    adding: false
-    db: default
-    fields_cache: {}
-  author: ''
-  author_email: ''
-  created: 2021-08-10 09:12:51.835000
-  description: Dette script logger brugeren borger(user) ud med det samme.
-  executable_code: script_uploads/logout_user.sh
-  id: 27
-  is_security_script: false
-  maintained_by_magenta: false
-  modified: 2022-03-24 11:35:34.794351
-  name: System - Log brugeren ud
-  site_id: null
-  user_created: ''
-  user_modified: magenta
+scr_executable_code_url: /media/script_uploads/logout_user.sh
+scr_pk: 27
